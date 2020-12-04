@@ -1,0 +1,68 @@
+.conteiner{
+	margin: 0 auto;
+	width: 1150px;
+}
+.header{
+	width: 100%;
+	height: 500px;
+	
+}
+.navigation{
+	width: 100%;
+	height: 100px;
+	background: black;
+	margin-top: 20px;
+}
+.navigation > a{
+	 color: white;
+	 text-decoration: none;
+	 font-family: Comic Sans MS;
+	 font-size: 26px;
+}
+.navigation_tbox{
+	position: absolute;
+	top: 560px;
+	left: 760px;
+	font-size: 26px;
+}
+.navsgation_coaches{
+	position: absolute;
+	top: 560px;
+	left:1100px;
+}
+.nav_logo{
+	position: absolute;
+	left: 640px;
+	width: 64px;
+	top: 550px;
+}
+.navigation_str{
+	position: absolute;
+	top: 560px;
+	left:120px;
+}
+.navigation_box{
+	position: absolute;
+	top: 560px;
+	left:300px;
+}
+.navigation_fitnes{
+	position: absolute;
+	top: 560px;
+	left:400px;
+}
+.navigation_mma{
+	position: absolute;
+	top: 560px;
+	left:520px;
+}
+.navigation > a:hover{
+	color: lightblue;
+	text-decoration: none;
+	font-family: Comic Sans MS;
+	font-size: 28px;
+}
+.photo1{
+	position: absolute;
+	width: 300px;
+}
